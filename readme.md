@@ -2,6 +2,6 @@
 THIS IS A TEXT TO SPEECH API BUILT WITH FLASK USING GOOGLE CLOUD PLATFORM
 HOW TO INSTALL TEXT TO SPEECH API 
 ```
-# 1. pipenv install
-# 2. pipenv shell
-# 3. flask run
+### 1. pipenv install
+### 2. pipenv shell
+## 3. flask run
