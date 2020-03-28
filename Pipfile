@@ -1,0 +1,18 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+pylint = "*"
+autopep8 = "*"
+
+[packages]
+flask = "*"
+python-dotenv = "*"
+google-cloud-speech = "*"
+cloudstorage = "*"
+google-cloud-storage = "*"
+
+[requires]
+python_version = "3.7"
